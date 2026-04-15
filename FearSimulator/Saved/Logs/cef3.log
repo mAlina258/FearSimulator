@@ -1,9 +1,9 @@
-[23760:21272:0411/232736.493:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[23760:5844:0411/232736.609:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[23760:21272:0411/232736.660:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[27412:24940:0411/232755.901:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A7B65C9C585A589B7813446E85E99C3B will be ignored
-[23760:25544:0411/232759.046:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[23760:25544:0411/232759.522:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[23760:25544:0411/232810.092:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[23760:25544:0411/232819.562:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[23760:21272:0412/000319.286:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[17060:38080:0415/195353.636:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[17060:36092:0415/195353.739:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[17060:38080:0415/195353.773:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[31408:33028:0415/195404.482:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B4F688CDC2BD56398065A72951F51A4D will be ignored
+[17060:17760:0415/195406.526:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[17060:17760:0415/195406.904:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[17060:17760:0415/195416.831:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[17060:17760:0415/195430.776:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[17060:38080:0415/220119.541:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
