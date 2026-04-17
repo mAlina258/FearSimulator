@@ -1,36 +1,10 @@
-[8376:21364:0417/215131.626:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[8376:9460:0417/215132.013:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[8376:21364:0417/215132.190:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[13916:8840:0417/215148.896:ERROR:backend_impl.cc(989)] Critical error found -8
-[13916:8840:0417/215149.008:WARNING:storage_block-inl.h(138)] Failed data load.
-[18588:2396:0417/215149.479:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B18757354DD0F10D4ADACEF9E090D40A will be ignored
-[8376:9040:0417/215150.327:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[8376:9040:0417/215150.658:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[8376:9040:0417/215150.790:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[8376:21364:0417/215150.908:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[8376:21364:0417/215150.909:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[8376:21364:0417/215150.909:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[8376:21364:0417/215150.909:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[8376:9040:0417/215150.915:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[11936:21632:0417/215155.657:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[11936:21632:0417/215156.731:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[11936:21636:0417/215156.761:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[11936:21636:0417/215156.763:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[11936:21636:0417/215156.764:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[13916:20020:0417/215156.860:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
-[13916:20020:0417/215156.860:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
-[13916:20020:0417/215156.860:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
-[13916:20020:0417/215156.860:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[13916:20020:0417/215156.860:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[13916:20020:0417/215156.860:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[11936:21636:0417/215156.860:WARNING:stun_port.cc(442)] Port[36dd800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[11936:21636:0417/215156.861:WARNING:stun_port.cc(442)] Port[36de000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[11936:21636:0417/215156.861:WARNING:stun_port.cc(442)] Port[36de800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[11936:21636:0417/215156.861:WARNING:stun_port.cc(442)] Port[36dd800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[11936:21636:0417/215156.861:WARNING:stun_port.cc(442)] Port[36de000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[11936:21636:0417/215156.861:WARNING:stun_port.cc(442)] Port[36de800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[8376:9040:0417/215200.361:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[8376:9040:0417/215210.477:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[18520:20584:0417/215403.295:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-DB9BE75FC3FDDE46FA2508557E7F504E will be ignored
-[17576:11916:0417/215403.966:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[8376:21364:0417/221154.083:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[22684:7396:0418/002004.054:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[22684:23212:0418/002004.125:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[22684:7396:0418/002004.162:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[22684:7396:0418/002014.037:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[12924:23080:0418/002014.658:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E7C15C346A02C839E7620FA52233E050 will be ignored
+[22684:20580:0418/002017.454:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22684:20580:0418/002017.798:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22684:20580:0418/002030.304:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22684:20580:0418/002044.053:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22684:7396:0418/003103.089:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
